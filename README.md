@@ -1,2 +1,2 @@
 # FLUTTER
-All Applications code made by me on Flutter
+A flutter based dice app which randomly picks any two numbers.
